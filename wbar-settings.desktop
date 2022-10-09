@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Wbar Configuration
+GenericName=Wbar Configuration
+Comment=Configure wbar with editor
+Categories=Qt;Utility;
+Exec=wbar-settings
+Icon=wbar
+Type=Application
+Terminal=false
+X-KDE-StartupNotify=true
+X-KDE-AuthorizeAction=shell_access
